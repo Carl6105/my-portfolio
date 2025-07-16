@@ -2,24 +2,52 @@ import styles from '../styles/Certifications.module.css';
 
 const certifications = [
   {
+    name: 'Security Operations Fundamentals',
+    issuer: 'Palo Alto Networks',
+  },
+  {
+    name: 'Cloud Security Fundamentals',
+    issuer: 'Palo Alto Networks',
+  },
+  {
+    name: 'Cybersecurity Fundamentals',
+    issuer: 'Palo Alto Networks',
+  },
+  {
+    name: 'Network Security Fundamentals',
+    issuer: 'Palo Alto Networks',
+  },
+  {
+    name: 'AWS APAC – Solutions Architecture Job Simulation',
+    issuer: 'Forage | Credential ID: 9C5F9QaHfKnA2etMg',
+  },
+  {
+    name: 'Deloitte Australia – Cyber Job Simulation',
+    issuer: 'Forage | Credential ID: 2yhSxyJqDJcALcq9B',
+  },
+  {
+    name: 'Deloitte Australia – Data Analytics Job Simulation',
+    issuer: 'Forage | Credential ID: Rc234uEAkPBhS9wN9',
+  },
+  {
+    name: 'Deloitte Australia – Technology Job Simulation',
+    issuer: 'Forage | Credential ID: zKsSZE3xmFRCLiXo8',
+  },
+  {
+    name: 'Mastercard – Cybersecurity Job Simulation',
+    issuer: 'Forage | Credential ID: 7NkJ4T6WLPPtCStWP',
+  },
+  {
+    name: 'Tata Group – Cybersecurity Analyst Job Simulation',
+    issuer: 'Forage',
+  },
+  {
     name: 'Salesforce Administrator',
     issuer: 'Salesforce',
   },
   {
     name: 'Introduction to Artificial Intelligence (AI)',
     issuer: 'IBM via Coursera',
-  },
-  {
-    name: 'Innovation Ambassador (Advanced Level)',
-    issuer: 'MoE’s Innovation Cell & AICTE',
-  },
-  {
-    name: 'Security Operations Fundamentals',
-    issuer: 'Palo Alto Networks',
-  },
-  {
-    name: 'Cyber & Network Security Fundamentals',
-    issuer: 'Palo Alto Networks',
   }
 ];
 

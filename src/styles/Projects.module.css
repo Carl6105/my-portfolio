@@ -62,3 +62,19 @@
     user-select: none;
   }
   
+  .projectLink {
+  display: inline-block;
+  margin-top: 10px;
+  color: #0070f3;
+  font-weight: bold;
+  text-decoration: none;
+  border: 1px solid #0070f3;
+  padding: 6px 12px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.projectLink:hover {
+  background-color: #0070f3;
+  color: white;
+}
