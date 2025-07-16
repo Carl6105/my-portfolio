@@ -19,8 +19,9 @@ const Navbar = ({ toggleTheme, darkMode }: NavbarProps) => {
         <li><a href="#contact" className={styles.link}>Contact</a></li>
         <li>
           <a
-            href="/assets/resume.pdf"
-            download
+            href="https://drive.google.com/file/d/1ZEUVrIknwzatiTn_-HqBTe18wxM2cJ4d/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className={styles.resumeButton}
           >
             📄 Resume
